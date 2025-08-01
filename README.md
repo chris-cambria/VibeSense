@@ -1,1 +1,2 @@
 # VibeSense
+This project involves creating a low-cost, non-invasive wearable that helps deaf users perceive environmental sounds through tactile feedback like vibrations or electrical pulses. It features an embedded system with real-time audio capture, AI-powered keyword detection, and basic sound classification for adaptive responses. Designed for affordability (under ₹2,000), modularity, and rural applicability, it also includes wireless connectivity for mobile interaction, sound logging, and caregiver alerts, even in offline or low-resource settings.
